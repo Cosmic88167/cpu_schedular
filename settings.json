@@ -1,0 +1,14 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "css": "css",
+    "postcss": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "files.associations": {
+    "*.css": "postcss"
+  }
+}
